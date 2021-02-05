@@ -2,9 +2,9 @@
 ### Выполнила проект: Шевченко Кристина
 
 ## Технологии
--HTML
--CSS
--Bootstrap
--jQuery
--Fancybox
--Swiper Slider JS
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- Fancybox
+- Swiper Slider JS
